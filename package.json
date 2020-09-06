@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinsoaje/to-do-list.git"
+  },
+  "author": "Joaquin Soaje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquinsoaje/to-do-list/issues"
+  },
+  "homepage": "https://github.com/joaquinsoaje/to-do-list#readme"
+}
